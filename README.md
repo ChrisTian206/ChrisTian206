@@ -34,7 +34,7 @@ I'm on a journey to enhance my development skills, and I'm currently diving deep
 
 I'm currently dedicating my efforts to the following projects and tasks:
 
-1. **AI Note Summarization Web App**: Continuing development on my web app for AI note summarization using the MERN stack. Implementing new features and optimizing the user experience.
+1. **AI Note Summarization Web App**: Continuing development on a web app for AI note summarization using the MERN stack with an scrum team of 6. Implementing new features and optimizing the user experience.
 
 2. **React Advancement**: Advancing my skills in React by working on personal projects and exploring advanced concepts.
 
