@@ -1,12 +1,10 @@
-<!-- Welcome to my GitHub Profile! -->
-
 ## Hey there, I'm Wenhao Tian, but you can call me Chris! 👋
 
 I'm a passionate Computer Science master's student at Boston University, with a keen interest in AI and web development. Currently, I'm working on an exciting project—a web app for AI note summarization using the MERN stack. I'm always eager to expand my knowledge and skills in the world of tech.
 
 ### 🛠️ Skills & Tools
 
-Here are some of the technologies and tools I work with, represented by icons:
+Here are some of the technologies and tools I work with:
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
@@ -14,14 +12,23 @@ Here are some of the technologies and tools I work with, represented by icons:
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" />&nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
+  <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
+</p>
+
+<p align="center">
+   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" />&nbsp;&nbsp;
+  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
 </p>
+
 
 ### 🌱 Currently Learning
 <p align="center">
