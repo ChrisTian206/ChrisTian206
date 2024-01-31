@@ -35,7 +35,7 @@ Here are some of the technologies and tools I work with:
   <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="Django"/>
 </p>
 
-I'm on a journey to enhance my development skills, and I'm currently diving deep into **Next.js**, a framework for building fast and optimized React applications. Keep an eye on my repositories for projects related to this exciting technology!
+I'm on a journey to enhance my development skills, and I'm currently diving deep into **Django**, I have a repo that keeps track of my learning journey!
 
 ### 🔨 Currently Working On
 
@@ -45,8 +45,7 @@ I'm currently dedicating my efforts to the following projects and tasks:
 
 2. **React Advancement**: Advancing my skills in React by working on personal projects and exploring advanced concepts.
 
-3. **Learning Next.js**: Actively learning and experimenting with Next.js to improve my knowledge of server-side rendering and building efficient React applications.
-
+3. **Learning Django**: Actively learning and experimenting with Django.
 ### 📫 Let's Connect
 
 Feel free to reach out to me or connect on social media:
