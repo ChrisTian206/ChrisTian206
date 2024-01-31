@@ -32,7 +32,7 @@ Here are some of the technologies and tools I work with:
 
 ### 🌱 Currently Learning
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="Django"/>
 </p>
 
 I'm on a journey to enhance my development skills, and I'm currently diving deep into **Next.js**, a framework for building fast and optimized React applications. Keep an eye on my repositories for projects related to this exciting technology!
