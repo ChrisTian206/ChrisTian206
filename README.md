@@ -11,6 +11,7 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" title="Redux" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
@@ -21,7 +22,6 @@ Here are some of the technologies and tools I work with:
 <p align="center">
    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" />&nbsp;&nbsp;
@@ -35,7 +35,7 @@ Here are some of the technologies and tools I work with:
   <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="Django"/>
 </p>
 
-I'm on a journey to enhance my development skills, and I'm currently diving deep into **Django**, I have a repo that keeps track of my learning journey!
+I'm on a journey to enhance my development skills, and I'm currently diving deep into **Django**, I have a repo that keeps track of my learning journey! This Django project is aiming to built a e-commerce website that handles product listing, user auth, cart management, order management, shipping management, transaction management. Other tools will be used are, but not limited to, React, Redux, React-Bootstrap, AWS S3, AWS SES, MapBox, and etc.
 
 ### 🔨 Currently Working On
 
