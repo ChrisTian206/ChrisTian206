@@ -35,7 +35,7 @@ Here are some of the technologies and tools I work with:
   <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="Django"/>
 </p>
 
-I'm on a journey to enhance my development skills, and I'm currently diving deep into **Django**, I have a repo that keeps track of my learning journey! This Django project is aiming to built a e-commerce website that handles product listing, user auth, cart management, order management, shipping management, transaction management. Other tools will be used are, but not limited to, React, Redux, React-Bootstrap, AWS S3, AWS SES, MapBox, and etc.
+I'm on a journey to enhance my development skills, and I'm currently diving deep into **Django**, I have a  [<a href= "https://github.com/ChrisTian206/DjangoReact-eCom">repo</a>] that keeps track of my learning journey! This Django project is aiming to built a e-commerce website that handles product listing, user auth, cart management, order management, shipping management, transaction management. Other tools will be used are, but not limited to, React, Redux, React-Bootstrap, AWS S3, AWS SES, MapBox, and etc.
 
 ### 🔨 Currently Working On
 
@@ -45,7 +45,7 @@ I'm currently dedicating my efforts to the following projects and tasks:
 
 2. **React Advancement**: Advancing my skills in React by working on personal projects and exploring advanced concepts.
 
-3. **Learning Django**: Actively learning and experimenting with Django.
+3. **Learning Django**: Actively learning and experimenting with Django. Check out my [<a href= "https://github.com/ChrisTian206/DjangoReact-eCom">Online Shop</a>] project that tracks my learning! 
 ### 📫 Let's Connect
 
 Feel free to reach out to me or connect on social media:
