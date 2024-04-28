@@ -17,6 +17,8 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
   <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
+  <img width="275" height="48" src="https://js.langchain.com/img/brand/wordmark.png"/>
+  
 </p>
 
 <p align="center">
@@ -41,8 +43,8 @@ I'm on a journey to enhance my development skills, and I'm currently diving deep
 
 I'm currently dedicating my efforts to the following projects and tasks:
 
-1. **AI Note Summarization Web App**: Continuing development on a web app for AI note summarization using the MERN stack with an scrum team of 6. Implementing new features and optimizing the user experience.
-
+1. **AI Real Estate Web App**: Continuing development on a web app for AI Real Estate startup project, Azula AI. Azula AI makes it much more efficient and easier for clients who are interested in searching or buying real estate properties. With the assistant of Azula AI, clients can quickly search properties matches their need and get real time answers about their interested properties.
+   
 2. **React Advancement**: Advancing my skills in React by working on personal projects and exploring advanced concepts.
 
 3. **Learning Django**: Actively learning and experimenting with Django. Check out my [<a href= "https://github.com/ChrisTian206/DjangoReact-eCom">Online Shop</a>] project that tracks my learning! 
