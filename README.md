@@ -17,7 +17,7 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
   <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
-  <img width="275" height="48" src="https://js.langchain.com/img/brand/wordmark.png"/>
+  <img width="275" height="40" src="https://js.langchain.com/img/brand/wordmark.png"/>
   
 </p>
 
