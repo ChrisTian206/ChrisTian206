@@ -1,7 +1,8 @@
 ## Hey there, I'm Wenhao Tian, but you can call me Chris! 👋
 
-I'm a passionate Computer Science master's student at Boston University, with a keen interest in AI and web development. Currently, I'm working on an exciting project—a web app for AI note summarization using the MERN stack. I'm always eager to expand my knowledge and skills in the world of tech.
+I'm a software developer currently located in Vancouver, Canada. I enjoy building full-stack apps, front-end projects, and exploring new things for my side projects. Currently I'm working on a AI real estate platform that helps users to quickly search and learn properties in their targeted region. 
 
+My keen interests in computer science was sparked in my junior year in college, when I was pursuing a bachelor degree in mechanical engineering. In my mechtronice class, I learned C++ to program my first Arduino project, a reverse parking sensor, and was blown away with the excitement of how much things programming can do. Since then, I took a few more courses to graduate college with a minor in Computer Science. In the following years, I dedicate myself pursuing a Master of Science in Computer Science degree from Boston University, where I learned much more exciting things like machine learning, web development, database management, SQL/NoSQL, the list goes on. Now, I'm enjoying my life coding and learning. Cheers!
 ### 🛠️ Skills & Tools
 
 Here are some of the technologies and tools I work with:
@@ -18,7 +19,6 @@ Here are some of the technologies and tools I work with:
   <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
   <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
   <img width="275" height="40" src="https://js.langchain.com/img/brand/wordmark.png"/>
-  
 </p>
 
 <p align="center">
