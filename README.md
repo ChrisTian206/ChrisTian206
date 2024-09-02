@@ -26,7 +26,7 @@ Here are some of the technologies and tools I work with:
   <img width="48" height="48" src="https://img.icons8.com/color/48/material-ui.png" alt="material-ui"/>
   <img width="48" height="48" src="https://img.icons8.com/ios/48/prisma-orm.png" alt="prisma-orm"/>
   <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
-  <img width="275" height="40" src="https://python.langchain.com/v0.1/img/brand/wordmark.png"/>
+  <img width="275" height="40" src="https://python.langchain.com/v0.2/img/brand/wordmark.png" alt="langchain.js"/>
 </p>
 
 <p align="center">
