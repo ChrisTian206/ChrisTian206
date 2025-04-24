@@ -45,7 +45,7 @@ Here are some of the technologies and tools I work with:
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
 </p>
 
-I'm on a journey to enhance my development skills, and I'm currently diving deep into **Next.js 14**, I have a <a href="https://github.com/ChrisTian206/Nextjs_webapp">repo</a> that keeps track of my learning journey! This Next.js project is aiming to build a tech ticketing web app that not only handles the CRUD of tickets, but also demonstrates the power of server side rendering combined with partial rendering that speeds up the loading and greatly enhances the SEO capabilities. The UI is crafted using TailwindCSS and Shadcn UI. These tools provide great looking UI components while making it highly customizable and quick to use.
+I'm on a journey to enhance my development skills, and I'm currently diving deep into **Next.js**, I have a <a href="https://github.com/ChrisTian206/Nextjs_webapp">repo</a> that keeps track of my learning journey! This Next.js project is aiming to build a tech ticketing web app that not only handles the CRUD of tickets, but also demonstrates the power of server side rendering combined with partial rendering that speeds up the loading and greatly enhances the SEO capabilities. The UI is crafted using TailwindCSS and Shadcn UI. These tools provide great looking UI components while making it highly customizable and quick to use.
  
 ### 🔨 Currently Working On
 
