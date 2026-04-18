@@ -1,8 +1,8 @@
 ## Hey there, I'm Wenhao Tian, but you can call me Chris! 👋
 
-Hey you! Welcome to my page. I'm a software enginner/AI Engineer/Chef/Cats dad located in Vancouver BC. A fun fact about me, I started my IT journey in my senior yea of college where I took my Mechtronic class with Dr. Jong Yoon (W prof) at University of Washington Bothell. The programming part of mechtronics really got me into writing code and design systems. Then I moved on to Boston University to learn more about Comp Sci. At BU, I picked up so much skills such as OS, Comp Networking, Software Engineering, Web Dev skills, .... Then, there's the AI.
+Hey you! Welcome to my page. I'm a software enginner/AI Engineer/Chef/Cats dad located in Vancouver BC. A fun fact about me, I started my IT journey in my senior year of college where I took my Mechtronic class with Dr. Jong Yoon (W prof) at University of Washington Bothell. The programming part of mechtronics really got me into writing code and design systems. Then I moved on to Boston University to learn more about Comp Sci. At BU, I picked up so much skills such as OS, Comp Networking, Software Engineering, Web Dev skills, .... Then, there's the AI.
 
-After BU, I moved to Canada and started my AI-learning journey. There's ton of fun in AI, and even more fun when you dive deeper. Now, I work in AI engineering. Love it!
+After BU, I moved to Canada and started my AI-learning journey at Simon Fraser University. There's ton of fun in AI, and even more fun when you dive deeper. Now, I work in AI engineering. Love it!
 
 ### 📫 Let's Connect
 
